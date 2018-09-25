@@ -1,0 +1,8 @@
+D:\Programing\ProjectGit\MyProjects\Sequences\task2\bin\Debug\task2.exe
+D:\Programing\ProjectGit\MyProjects\Sequences\task2\bin\Debug\task2.pdb
+D:\Programing\ProjectGit\MyProjects\Sequences\task2\bin\Debug\BL.dll
+D:\Programing\ProjectGit\MyProjects\Sequences\task2\bin\Debug\BL.pdb
+D:\Programing\ProjectGit\MyProjects\Sequences\task2\obj\Debug\task2.csprojResolveAssemblyReference.cache
+D:\Programing\ProjectGit\MyProjects\Sequences\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+D:\Programing\ProjectGit\MyProjects\Sequences\task2\obj\Debug\task2.exe
+D:\Programing\ProjectGit\MyProjects\Sequences\task2\obj\Debug\task2.pdb
